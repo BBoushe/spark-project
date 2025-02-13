@@ -1,0 +1,3 @@
+run docker-compose up -d
+kafka-console-consumer --bootstrap-server localhost:9092 --topic health_indicators_predicted --from-beginning
+kafka-console-consumer --bootstrap-server localhost:9092 --topic health_indicators --from-beginning
