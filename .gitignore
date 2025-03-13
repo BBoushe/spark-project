@@ -1,0 +1,7 @@
+# python venv enviroment
+venv/ 
+.idea/
+
+# pdf files
+*.pdf
+requirenments.txt
