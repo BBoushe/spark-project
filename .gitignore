@@ -1,7 +1,9 @@
 # python venv enviroment
 venv/ 
-.idea/
+.idea
 
 # pdf files
 *.pdf
-requirenments.txt
+*.txt
+
+.DS_Store
